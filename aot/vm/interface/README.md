@@ -1,0 +1,3 @@
+|                                                                                     |                                                                                                             |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [IModule](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/vm/interface/imodule) | [ISourceFileProvider](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/vm/interface/isourcefileprovider) |

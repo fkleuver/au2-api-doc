@@ -1,0 +1,4 @@
+|                                                                                                  |                                                                                                      |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| [I18N](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/variable/i18n)                       | [I18nConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/variable/i18nconfiguration) |
+| [I18nInitOptions](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/variable/i18ninitoptions) | [I18nWrapper](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/variable/i18nwrapper)             |

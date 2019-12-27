@@ -1,0 +1,3 @@
+|                                                                                                               |                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [JSDOMInitializer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html-jsdom/class/jsdominitializer) | [JSDOMScheduler](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html-jsdom/class/jsdomscheduler) |

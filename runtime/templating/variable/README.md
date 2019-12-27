@@ -1,0 +1,3 @@
+|                                                                                                  |                                                                                                          |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [Bindable](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/variable/bindable) | [IViewLocator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/variable/iviewlocator) |

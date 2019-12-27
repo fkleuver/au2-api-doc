@@ -1,0 +1,3 @@
+|                                                                                                             |                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [RetryableRequest](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/typealias/retryablerequest) | [ValidInterceptorMethodName](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/typealias/validinterceptormethodname) |

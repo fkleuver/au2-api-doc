@@ -1,0 +1,3 @@
+|                                                                                                                                  |                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [IShadowDOMConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/styles/interface/ishadowdomconfiguration) | [IShadowDOMStyles](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/styles/interface/ishadowdomstyles) |

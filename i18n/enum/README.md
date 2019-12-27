@@ -1,0 +1,3 @@
+|                                                                              |                                                                                              |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Signals](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/enum/signals) | [ValueConverters](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/enum/valueconverters) |

@@ -1,0 +1,3 @@
+|                                                                                                                  |                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [IEventManager](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/observation/variable/ieventmanager) | [ISVGAnalyzer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/observation/variable/isvganalyzer) |

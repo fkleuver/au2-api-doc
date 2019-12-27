@@ -1,0 +1,4 @@
+|                                                                                                               |                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [I18nKeyEvaluationResult](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/class/i18nkeyevaluationresult) | [I18nService](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/class/i18nservice) |
+| [I18nextWrapper](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/class/i18nextwrapper)                   |                                                                                       |

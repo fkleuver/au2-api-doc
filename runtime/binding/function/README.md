@@ -1,0 +1,9 @@
+|                                                                                                             |                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [arePureLiterals](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/arepureliterals) | [callsFunction](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/callsfunction) |
+| [connectable](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/connectable)         | [connects](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/connects)           |
+| [hasAncestor](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/hasancestor)         | [hasBind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/hasbind)             |
+| [hasUnbind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/hasunbind)             | [isAssignable](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/isassignable)   |
+| [isLeftHandSide](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/islefthandside)   | [isLiteral](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/isliteral)         |
+| [isPrimary](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/isprimary)             | [isPureLiteral](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/ispureliteral) |
+| [isResource](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/isresource)           | [observes](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/binding/function/observes)           |

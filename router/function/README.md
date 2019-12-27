@@ -1,0 +1,4 @@
+|                                                                                            |                                                                                                    |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [arrayRemove](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/function/arrayremove) | [lifecycleLogger](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/function/lifecyclelogger) |
+| [parseQuery](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/function/parsequery)   |                                                                                                    |

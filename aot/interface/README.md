@@ -1,0 +1,3 @@
+|                                                                                                  |                                                                                            |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| [IModuleResolver](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/interface/imoduleresolver) | [IServiceHost](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/interface/iservicehost) |

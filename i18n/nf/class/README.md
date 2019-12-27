@@ -1,0 +1,3 @@
+|                                                                                                                          |                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [NumberFormatBindingBehavior](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/nf/class/numberformatbindingbehavior) | [NumberFormatValueConverter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/nf/class/numberformatvalueconverter) |

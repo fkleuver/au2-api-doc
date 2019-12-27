@@ -1,0 +1,4 @@
+|                                                                                                               |                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Blur](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/resources/custom-attributes/class/blur)   | [BlurManager](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/resources/custom-attributes/class/blurmanager) |
+| [Focus](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/resources/custom-attributes/class/focus) | [Portal](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html/resources/custom-attributes/class/portal)           |

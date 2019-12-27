@@ -1,0 +1,7 @@
+|                                                                                                             |                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [ConsoleSink](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/consolesink)                     | [DI](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/di)                                         |
+| [DefaultLogEvent](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/defaultlogevent)             | [DefaultLogEventFactory](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/defaultlogeventfactory) |
+| [DefaultLogger](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/defaultlogger)                 | [EventAggregator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/eventaggregator)               |
+| [InstanceProvider](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/instanceprovider)           | [LogConfig](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/logconfig)                           |
+| [ParameterizedRegistry](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/class/parameterizedregistry) |                                                                                                               |

@@ -1,0 +1,9 @@
+# Function
+
+
+
+|                                                                                             |                                                                                       |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [__default](https://hamedfathi.gitbook.io/aurelia-2-doc-api/plugin-gulp/function/__default) | [plugin](https://hamedfathi.gitbook.io/aurelia-2-doc-api/plugin-gulp/function/plugin) |
+
+

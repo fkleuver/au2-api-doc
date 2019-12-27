@@ -1,0 +1,3 @@
+|                                                                                                                           |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [BrowserDOMInitializer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html-browser/class/browserdominitializer) | [BrowserScheduler](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime-html-browser/class/browserscheduler) |

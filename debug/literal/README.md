@@ -1,0 +1,4 @@
+|                                                                                                        |                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| [DebugConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/literal/debugconfiguration) | [DebugTracer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/literal/debugtracer)               |
+| [Reporter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/literal/reporter)                     | [TraceConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/literal/traceconfiguration) |

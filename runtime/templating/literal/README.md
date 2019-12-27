@@ -1,0 +1,4 @@
+|                                                                                                 |                                                                                                 |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Bindable](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/literal/bindable) | [Children](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/literal/children) |
+| [Views](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/literal/views)       |                                                                                                 |

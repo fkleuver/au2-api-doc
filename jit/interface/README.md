@@ -1,0 +1,5 @@
+|                                                                                                        |                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [AttributePattern](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/interface/attributepattern)     | [AttributePatternDefinition](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/interface/attributepatterndefinition) |
+| [IAttributeParser](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/interface/iattributeparser)     | [IAttributePattern](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/interface/iattributepattern)                   |
+| [ISyntaxInterpreter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/interface/isyntaxinterpreter) |                                                                                                                        |

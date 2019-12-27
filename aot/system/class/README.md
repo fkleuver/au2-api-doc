@@ -1,0 +1,5 @@
+|                                                                                                               |                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [File](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/file)                                 | [NPMPackage](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/npmpackage)             |
+| [NPMPackageDependency](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/npmpackagedependency) | [NPMPackageLoader](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/npmpackageloader) |
+| [NodeFileSystem](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/nodefilesystem)             | [PatternMatcher](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/class/patternmatcher)     |

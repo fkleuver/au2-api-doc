@@ -1,0 +1,5 @@
+|                                                                                                               |                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [BindingBehavior](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/resources/variable/bindingbehavior) | [CustomAttribute](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/resources/variable/customattribute)     |
+| [CustomElement](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/resources/variable/customelement)     | [IProjectorLocator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/resources/variable/iprojectorlocator) |
+| [ValueConverter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/resources/variable/valueconverter)   |                                                                                                                   |

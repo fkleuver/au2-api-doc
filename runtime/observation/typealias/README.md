@@ -1,0 +1,4 @@
+|                                                                                                                            |                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [BindingContextValue](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/observation/typealias/bindingcontextvalue)   | [ComputedLookup](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/observation/typealias/computedlookup) |
+| [RepeatableCollection](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/observation/typealias/repeatablecollection) |                                                                                                                |

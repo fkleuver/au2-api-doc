@@ -1,0 +1,3 @@
+|                                                                                                         |                                                                                                         |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [DebugConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/variable/debugconfiguration) | [TraceConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/debug/variable/traceconfiguration) |

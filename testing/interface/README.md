@@ -1,0 +1,5 @@
+|                                                                                                              |                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| [IAssertionErrorOpts](https://hamedfathi.gitbook.io/aurelia-2-doc-api/testing/interface/iassertionerroropts) | [IInspectContext](https://hamedfathi.gitbook.io/aurelia-2-doc-api/testing/interface/iinspectcontext)       |
+| [IInspectOptions](https://hamedfathi.gitbook.io/aurelia-2-doc-api/testing/interface/iinspectoptions)         | [MockServiceLocator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/testing/interface/mockservicelocator) |
+| [MockSignaler](https://hamedfathi.gitbook.io/aurelia-2-doc-api/testing/interface/mocksignaler)               |                                                                                                            |

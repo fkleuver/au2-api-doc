@@ -1,0 +1,4 @@
+|                                                                                                         |                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [HttpClient](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/class/httpclient)             | [HttpClientConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/class/httpclientconfiguration) |
+| [RetryInterceptor](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/class/retryinterceptor) |                                                                                                                       |

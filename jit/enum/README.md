@@ -1,0 +1,4 @@
+|                                                                                   |                                                                                     |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Access](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/enum/access)         | [Char](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/enum/char)               |
+| [Precedence](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/enum/precedence) | [SymbolFlags](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/enum/symbolflags) |

@@ -1,0 +1,4 @@
+|                                                                                                           |                                                                                           |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [$DocumentFragment](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/vm/ast/class/usddocumentfragment) | [$ESModule](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/vm/ast/class/usdesmodule) |
+| [$ESScript](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/vm/ast/class/usdesscript)                 |                                                                                           |

@@ -1,0 +1,5 @@
+|                                                                                     |                                                                                             |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Metadata](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/metadata) | [PLATFORM](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/platform)         |
+| [Protocol](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/protocol) | [Registration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/registration) |
+| [Reporter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/reporter) | [Tracer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/literal/tracer)             |

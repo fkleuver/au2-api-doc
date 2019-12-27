@@ -1,0 +1,3 @@
+|                                                                                                   |                                                                                                                 |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Interceptor](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/interface/interceptor) | [RetryConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/fetch-client/interface/retryconfiguration) |

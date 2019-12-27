@@ -1,0 +1,3 @@
+|                                                                                      |                                                                                      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [Encoding](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/enum/encoding) | [FileKind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/enum/filekind) |

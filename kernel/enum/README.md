@@ -1,0 +1,3 @@
+|                                                                                          |                                                                                  |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [ColorOptions](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/enum/coloroptions) | [LogLevel](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/enum/loglevel) |

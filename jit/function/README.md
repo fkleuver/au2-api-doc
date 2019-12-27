@@ -1,0 +1,5 @@
+|                                                                                                   |                                                                                                 |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [attributePattern](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/function/attributepattern) | [bindingCommand](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/function/bindingcommand)   |
+| [getTarget](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/function/gettarget)               | [parseExpression](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/function/parseexpression) |
+| [unescapeCode](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/function/unescapecode)         |                                                                                                 |

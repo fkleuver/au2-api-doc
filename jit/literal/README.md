@@ -1,0 +1,4 @@
+|                                                                                                  |                                                                                                                            |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [BindingCommand](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/literal/bindingcommand)     | [IExpressionParserRegistration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/literal/iexpressionparserregistration) |
+| [JitConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit/literal/jitconfiguration) |                                                                                                                            |

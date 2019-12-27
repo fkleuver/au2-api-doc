@@ -1,0 +1,8 @@
+|                                                                                                                 |                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [BindingMode](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/bindingmode)                         | [BindingStrategy](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/bindingstrategy)       |
+| [CollectionKind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/collectionkind)                   | [DelegationStrategy](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/delegationstrategy) |
+| [ExpressionKind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/expressionkind)                   | [LifecycleFlags](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/lifecycleflags)         |
+| [MountStrategy](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/mountstrategy)                     | [State](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/state)                           |
+| [TargetedInstructionType](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/targetedinstructiontype) | [TaskQueuePriority](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/taskqueuepriority)   |
+| [TaskSlot](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/taskslot)                               | [ViewModelKind](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/enum/viewmodelkind)           |

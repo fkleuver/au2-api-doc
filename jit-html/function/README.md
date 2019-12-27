@@ -1,0 +1,4 @@
+|                                                                                                                              |                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [stringifyDOM](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit-html/function/stringifydom)                               | [stringifyInstructions](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit-html/function/stringifyinstructions) |
+| [stringifyTemplateDefinition](https://hamedfathi.gitbook.io/aurelia-2-doc-api/jit-html/function/stringifytemplatedefinition) |                                                                                                                  |

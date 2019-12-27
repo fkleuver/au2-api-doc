@@ -1,0 +1,14 @@
+|                                                                                          |                                                                                                            |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [IContainer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/icontainer) | [IEventAggregator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/ieventaggregator)       |
+| [ILogConfig](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/ilogconfig) | [ILogEventFactory](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/ilogeventfactory)       |
+| [ILogger](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/ilogger)       | [IServiceLocator](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/iservicelocator)         |
+| [ISink](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/isink)           | [LoggerConfiguration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/loggerconfiguration) |
+| [Metadata](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/metadata)     | [PLATFORM](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/platform)                       |
+| [Profiler](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/profiler)     | [Registration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/registration)               |
+| [Reporter](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/reporter)     | [Tracer](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/tracer)                           |
+| [all](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/all)               | [camelCase](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/camelcase)                     |
+| [format](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/format)         | [getPrototypeChain](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/getprototypechain)     |
+| [inject](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/inject)         | [isNativeFunction](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/isnativefunction)       |
+| [kebabCase](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/kebabcase)   | [lazy](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/lazy)                               |
+| [optional](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/optional)     | [pascalCase](https://hamedfathi.gitbook.io/aurelia-2-doc-api/kernel/variable/pascalcase)                   |

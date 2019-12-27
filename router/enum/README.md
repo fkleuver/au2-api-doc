@@ -1,0 +1,4 @@
+|                                                                                              |                                                                                                |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [ContentStatus](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/enum/contentstatus)   | [HookTypes](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/enum/hooktypes)             |
+| [ParametersType](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/enum/parameterstype) | [ReentryBehavior](https://hamedfathi.gitbook.io/aurelia-2-doc-api/router/enum/reentrybehavior) |

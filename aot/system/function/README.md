@@ -1,0 +1,4 @@
+|                                                                                                                  |                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [isRelativeModulePath](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/function/isrelativemodulepath) | [joinPath](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/function/joinpath) |
+| [resolvePath](https://hamedfathi.gitbook.io/aurelia-2-doc-api/aot/system/function/resolvepath)                   |                                                                                          |

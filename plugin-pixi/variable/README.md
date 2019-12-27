@@ -1,0 +1,4 @@
+|                                                                                                                       |                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [DefaultResources](https://hamedfathi.gitbook.io/aurelia-2-doc-api/plugin-pixi/variable/defaultresources)             | [PixiAppRegistration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/plugin-pixi/variable/pixiappregistration) |
+| [PixiSpriteRegistration](https://hamedfathi.gitbook.io/aurelia-2-doc-api/plugin-pixi/variable/pixispriteregistration) |                                                                                                                 |

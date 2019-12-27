@@ -1,0 +1,5 @@
+|                                                                                                                  |                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [bindable](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/function/bindable)                 | [children](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/function/children)               |
+| [getRenderContext](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/function/getrendercontext) | [isRenderContext](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/function/isrendercontext) |
+| [view](https://hamedfathi.gitbook.io/aurelia-2-doc-api/runtime/templating/function/view)                         |                                                                                                                |

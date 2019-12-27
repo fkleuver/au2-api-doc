@@ -1,0 +1,4 @@
+|                                                                                                           |                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [BindingWithBehavior](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/typealias/bindingwithbehavior) | [I18NConfigOptionsProvider](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/typealias/i18nconfigoptionsprovider) |
+| [I18nModule](https://hamedfathi.gitbook.io/aurelia-2-doc-api/i18n/typealias/i18nmodule)                   |                                                                                                                       |
